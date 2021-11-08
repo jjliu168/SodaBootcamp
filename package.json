@@ -1,0 +1,22 @@
+{
+  "name": "sodabootcamp",
+  "version": "1.0.0",
+  "description": "Soda bootcamp",
+  "main": "index.html",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjliu168/SodaBootcamp.git"
+  },
+  "author": "jett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jjliu168/SodaBootcamp/issues"
+  },
+  "homepage": "https://github.com/jjliu168/SodaBootcamp#readme",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  }
+}
